@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'servermanager',
     'owntracks',
     'compressor'
+    'DjangoBolg'
 ]
 
 MIDDLEWARE = [
