@@ -56,8 +56,7 @@ INSTALLED_APPS = [
     'oauth',
     'servermanager',
     'owntracks',
-    'compressor',
-    'DjangoBlog'
+    'compressor'
 ]
 
 MIDDLEWARE = [
