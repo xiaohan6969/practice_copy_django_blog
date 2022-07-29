@@ -15,7 +15,7 @@ ipaddress==1.0.23
 jieba==0.42.1
 jsonpickle==1.4.1
 markdown2==2.3.9
-mistune==0.8.4
+mistune==2.0.3
 mysqlclient==1.4.6
 Pillow==7.1.2
 Pygments==2.6.1
